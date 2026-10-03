@@ -204,16 +204,6 @@ No backend, database, package manager, or build tool is required.
 
 ---
 
-## 📸 Project Preview
-
-If you add a screenshot to the repository, you can display it in this section:
-
-```markdown
-![Quote Generator Screenshot](screenshot.png)
-```
-
----
-
 ## 🎯 Learning Objectives
 
 This project was built to practice:
